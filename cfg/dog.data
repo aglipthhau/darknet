@@ -1,0 +1,5 @@
+classes=1
+train=dog-train.txt
+valid=dog-test.txt
+names=dog-obj.names
+backup=backup/
